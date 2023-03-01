@@ -8,6 +8,8 @@ Public repository for files related to riyahds projects
 
 Excel sample data
 [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
+Microsoft Power Query sample analysis
+[SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
 
 #Images
 
