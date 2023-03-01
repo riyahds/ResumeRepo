@@ -1,16 +1,21 @@
 #ProjectData
 
 Public repository for files related to riyahds projects
+The contents of this repository "ProjectData" and all files uploaded, does not violate or infringe upon any patent, copyright or trademark rights of any third party, and is created as original work of the owner "riyahds". Data entities in Excel and Power Query are generated at random from online resources with references where applicable, for demonstrative and research purposes
+
+I have ensured to obtained all necessary permissions and licenses for using any materials from other sources in this work where applicable
 
 #Content
 
 1. site123.com resume website - in development
 
-Excel sample data
+Excel data
 1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
 2. [SampleSubscriptionRangeData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionRangeData.xlsx)
 
-Microsoft Power Query sample analysis
+Sample mockaroo.com random data generated: https://www.mockaroo.com/0596cf40
+
+Microsoft Power Query
 [SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
 
 #Images
