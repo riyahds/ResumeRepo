@@ -14,3 +14,7 @@ Excel sample data
 [Experience/Outcome Matrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png)
 
 Canva template link: https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+
+[Customer issue severity matrix.png](https://github.com/riyahds/ProjectData/blob/main/Customer%20issue%20severity%20matrix.png)
+
+Canva template link: https://www.canva.com/design/DAFbsagwtsQ/ZWECpcpP2vwlxVxYp-7tyA/view?utm_content=DAFbsagwtsQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
