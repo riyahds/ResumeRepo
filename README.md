@@ -17,7 +17,7 @@ Excel data
 Sample base data generated: https://www.mockaroo.com/0596cf40
 
 Microsoft Power Query
-[SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
+1. [SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
 
 #Images
 
