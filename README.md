@@ -7,7 +7,8 @@ Public repository for files related to riyahds projects
 1. site123.com resume website - in development
 
 Excel sample data
-[SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
+1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
+2. [SampleSubscriptionRangeData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionRangeData.xlsx)
 
 Microsoft Power Query sample analysis
 [SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
