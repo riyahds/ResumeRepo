@@ -1,6 +1,7 @@
 #ProjectData
 
 Public repository for files related to riyahds projects
+
 The contents of this repository "ProjectData" and all files uploaded, does not infringe on rights of any third party, and is created as original work of the owner "riyahds". Data entities in Excel and Power Query are generated at random from online resources with references where applicable, for demonstrative and research purposes
 
 I have ensured to obtained all necessary permissions and licenses when using any materials from other sources in this work where applicable
