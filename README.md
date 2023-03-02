@@ -37,3 +37,6 @@ Canva template link: https://www.canva.com/design/DAFb4ub6kyw/VqrjFnUi86s3w-ol-k
 [PhaseAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/PhaseAnalysis.png)
 
 Canva template link: https://www.canva.com/design/DAFb9gFAAJc/iE02yvCVYg4Fh9HUBclqVg/edit?utm_content=DAFb9gFAAJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+[GapAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/GAPAnalysis.png)
+Canva template link: https://www.canva.com/design/DAFcDyqW_FM/nNhb98iBLDiqURvHgFNB6g/edit?utm_content=DAFcDyqW_FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
