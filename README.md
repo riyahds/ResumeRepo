@@ -15,7 +15,7 @@ Excel data
 2. [SampleSubscriptionRangeData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionRangeData.xlsx)
 3. [ChurnFeedbackAnalysis.xlsx](https://github.com/riyahds/ProjectData/blob/main/ChurnFeedbackAnalysis.xlsx)
 4. [XAppChurnSurvey(Responses).xlsx](https://github.com/riyahds/ProjectData/blob/main/XAppChurnSurvey(Responses).xlsx)
-5. [XAppProductFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppFeedback.xlsx)
+5. [XAppProductFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppProductFeedback.xlsx)
 
 Sample base data generated: https://www.mockaroo.com/0596cf40
 
