@@ -47,4 +47,4 @@ Canva template link: https://www.canva.com/design/DAFcDyqW_FM/nNhb98iBLDiqURvHgF
 
 [CustomerDynamo.png](https://github.com/riyahds/ProjectData/blob/main/CustomerDynamo.png)
 
-Canva template link: https://www.canva.com/design/DAFcKk5XGfI/QXujQZF-Zx4u9PfDYAF5Cw/edit?utm_content=DAFcKk5XGfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Canva template [link](https://www.canva.com/design/DAFcKk5XGfI/QXujQZF-Zx4u9PfDYAF5Cw/edit?utm_content=DAFcKk5XGfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
