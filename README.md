@@ -2,7 +2,7 @@
 
 Public repository for files related to riyahds projects
 
-The contents of this repository "ProjectData" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner "riyahds". Data entities in Excel and Power Query are generated at random from online resources with references where applicable, for demonstrative and research purposes
+The contents of this repository "ProjectData" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner "riyahds". Data entities in Excel and Power Query are generated at random from online resources with references where applicable, for demonstrative purposes
 
 I have ensured to obtained all necessary permissions and licenses when using any materials from other sources in this work where applicable
 
@@ -42,3 +42,5 @@ Canva template link: https://www.canva.com/design/DAFb9gFAAJc/iE02yvCVYg4Fh9HUBc
 [GapAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/GAPAnalysis.png)
 
 Canva template link: https://www.canva.com/design/DAFcDyqW_FM/nNhb98iBLDiqURvHgFNB6g/edit?utm_content=DAFcDyqW_FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+[SegmentStrategygraph](https://www.canva.com/design/DAFcIrxWfqs/H9TS5qdWO-5B2jHhv6DRFg/edit?utm_content=DAFcIrxWfqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
