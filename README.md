@@ -20,9 +20,10 @@ Excel data
 Sample base data generated: https://www.mockaroo.com/0596cf40
 
 2. Microsoft Power Query
-2.1. [SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
 
-#3. Images
+2.1[SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
+
+#Images
 
 3.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png)
 
