@@ -8,7 +8,7 @@ I have ensured to obtained all necessary permissions and licenses when using any
 
 #Content
 
-1. riyahdsamuels resume website - in development
+1. riyahdsamuels.online resume website - in development
 
 Excel data
 
