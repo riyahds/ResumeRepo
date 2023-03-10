@@ -22,7 +22,7 @@ Excel data
 
 1.5. [XAppProductFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppProductFeedback.xlsx)
 
-Sample base data generated: https://www.mockaroo.com/0596cf40
+Sample table data generated: https://www.mockaroo.com/0596cf40
 
 2. Microsoft Power Query
 
