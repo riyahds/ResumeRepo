@@ -2,15 +2,15 @@
 
 Public repository for files related to riyahdsamuels.online website - in development
 
-The contents of this repository "ProjectData" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner "riyahds". Data entities in Excel and Power Query are generated at random from online resources with references where applicable, for demonstrative purposes
+The contents of this repository "ProjectData" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner riyahds. Data entities generated in Microsoft Excel and Microsoft Power Query are randomly generated from online resources with references where applicable, and is solely used for demonstrative purposes
 
-I have ensured to obtained all necessary permissions and licenses when using any materials from other sources in this work where applicable
+I have ensured to obtained all necessary permissions, open source disclosures and guidelines when using any materials from other sources in this work where applicable and make my works publicly available, where applicable
 
 #Content
 
-1. riyahdsamuels.online resume website - in development
+1. riyahdsamuels.online resume and portfolio website
 
-Excel data
+Microsoft Excel data
 
 1.1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
 
