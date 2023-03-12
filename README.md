@@ -25,6 +25,12 @@ I have ensured to obtained all necessary permissions, open source disclosures an
    3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
       Random data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40)
+      
+4. Google Forms
+
+   3.1 [X App Feedback Survey](https://docs.google.com/forms/d/1jv0d2RUpGw5Ud9nYi4R9b5tiFXlFhLfE4Z1ZD-mHF_4/edit)
+
+   3.2 [X App Churn Survey](https://docs.google.com/forms/d/1T87T9gkUrXrCg_5OyO2EbhpYNSmTZX2lupQqBsbjQWI/edit
 
 1.1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
 
