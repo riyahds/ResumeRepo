@@ -14,7 +14,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 3. Microsoft Excel data
 
-3.1 [KaizenProcessImprovementData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/KaizenProcessImprovementData.xlsx)
+   3.1 [KaizenProcessImprovementData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/KaizenProcessImprovementData.xlsx)
 
 3.2 [SampleXAppSubscriptionData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleXAppSubscriptionData.xlsx)
 
