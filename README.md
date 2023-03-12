@@ -16,15 +16,15 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    3.1 [KaizenProcessImprovementData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/KaizenProcessImprovementData.xlsx)
 
-3.2 [SampleXAppSubscriptionData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleXAppSubscriptionData.xlsx)
+   3.2 [SampleXAppSubscriptionData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleXAppSubscriptionData.xlsx)
 
-3.3 [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppChurnFeedbackSurvey.xlsx)
+   3.3 [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppChurnFeedbackSurvey.xlsx)
 
-3.4 [ProductAnalysisFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/ProductAnalysisFeedback.xlsx)
+   3.4 [ProductAnalysisFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/ProductAnalysisFeedback.xlsx)
 
-3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
+   3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
-
+      Random data entries generated online at mockaroo.com: e.g. https://www.mockaroo.com/0596cf40
 
 1.1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
 
@@ -36,7 +36,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 1.5. [XAppProductFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppProductFeedback.xlsx)
 
-Sample table data generated: https://www.mockaroo.com/0596cf40
+
 
 4. Microsoft Power Query
 
