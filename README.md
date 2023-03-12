@@ -10,7 +10,21 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 1. riyahdsamuels.online resume and portfolio website
 
-Microsoft Excel data
+2. FIGMA [Job card workflow](https://www.figma.com/file/smIwfmc00khMUpN2TGO1UH/Job-card-workflow?node-id=0%3A1&t=tourdyD52yO5bTxR-1)
+
+3. Microsoft Excel data
+
+3.1 [KaizenProcessImprovementData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/KaizenProcessImprovementData.xlsx)
+
+3.2 [SampleXAppSubscriptionData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleXAppSubscriptionData.xlsx)
+
+3.3 [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppChurnFeedbackSurvey.xlsx)
+
+3.4 [ProductAnalysisFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/ProductAnalysisFeedback.xlsx)
+
+3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
+
+
 
 1.1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
 
@@ -24,9 +38,9 @@ Microsoft Excel data
 
 Sample table data generated: https://www.mockaroo.com/0596cf40
 
-2. Microsoft Power Query
+4. Microsoft Power Query
 
-2.1[SampleChurnAnalysis-PowerQuery.pbit](https://github.com/riyahds/ProjectData/blob/main/SampleChurnAnalysis-PowerQuery.pbit)
+2.1 [SampleChurnAnalysisPowerQuery.pbit](https://github.com/riyahds/ResumeWebsite/blob/main/SampleChurnAnalysisPowerQuery.pbit)
 
 #Images
 
