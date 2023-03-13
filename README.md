@@ -42,9 +42,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 7. Canva
                 
-   7.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png)
-
-   Canva [template](https://www.canva.com/design/DAFa34jYWO4/eVX3tjZ0bS5RuVOJAf-jVA/edit?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   7.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png) [template link](https://www.canva.com/design/DAFa34jYWO4/eVX3tjZ0bS5RuVOJAf-jVA/edit?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
    7.2. [IssueSeverityMatrix.png](https://github.com/riyahds/ProjectData/blob/main/IssueSeverityMatrix.png)
 
