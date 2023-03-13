@@ -20,7 +20,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    3.3 [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppChurnFeedbackSurvey.xlsx)
 
-   3.4 [ProductAnalysisFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/ProductAnalysisFeedback.xlsx)
+   3.4 [XAppProductAnalysisFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppProductAnalysisFeedback.xlsx)
 
    3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
@@ -32,19 +32,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    3.2 [X App Churn Survey](https://docs.google.com/forms/d/1T87T9gkUrXrCg_5OyO2EbhpYNSmTZX2lupQqBsbjQWI/edit)
 
-1.1. [SampleSubscriptionData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionData.xlsx)
-
-1.2. [SampleSubscriptionRangeData.xlsx](https://github.com/riyahds/ProjectData/blob/main/SampleSubscriptionRangeData.xlsx)
-
-1.3. [ChurnFeedbackAnalysis.xlsx](https://github.com/riyahds/ProjectData/blob/main/ChurnFeedbackAnalysis.xlsx)
-
-1.4. [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppChurnFeedbackSurvey.xlsx)
-
-1.5. [XAppProductFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppProductFeedback.xlsx)
-
-
-
-4. Microsoft Power Query
+5. Microsoft Power Query
 
 2.1 [SampleChurnAnalysisPowerQuery.pbit](https://github.com/riyahds/ResumeWebsite/blob/main/SampleChurnAnalysisPowerQuery.pbit)
 
