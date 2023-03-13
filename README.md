@@ -24,7 +24,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
-       Random data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40)
+      Random data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40)
       
 4. Google Forms
 
@@ -34,34 +34,38 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 5. Microsoft Power Query
 
-2.1 [SampleChurnAnalysisPowerQuery.pbit](https://github.com/riyahds/ResumeWebsite/blob/main/SampleChurnAnalysisPowerQuery.pbit)
+   5.1 [SampleChurnAnalysisPowerQuery.pbit](https://github.com/riyahds/ResumeWebsite/blob/main/SampleChurnAnalysisPowerQuery.pbit)
 
 #Images
 
-3.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png)
+6. OpenAI image generator: [“Excel datasheet at a desk computer in hyperspace”](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
+
+7. Canva
+                
+7.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png)
 
 Canva [template](https://www.canva.com/design/DAFa34jYWO4/eVX3tjZ0bS5RuVOJAf-jVA/edit?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-3.2. [IssueSeverityMatrix.png](https://github.com/riyahds/ProjectData/blob/main/IssueSeverityMatrix.png)
+7.2. [IssueSeverityMatrix.png](https://github.com/riyahds/ProjectData/blob/main/IssueSeverityMatrix.png)
 
 Canva [template](https://www.canva.com/design/DAFbsagwtsQ/63rLDJ7gay5xNbdSCAldwg/edit?utm_content=DAFbsagwtsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-3.3. [EngagementLifecycleJourneyMap.png](https://github.com/riyahds/ProjectData/blob/main/EngagementLifecycleJourneyMap.png)
+7.3. [EngagementLifecycleJourneyMap.png](https://github.com/riyahds/ProjectData/blob/main/EngagementLifecycleJourneyMap.png)
 
 Canva [template](https://www.canva.com/design/DAFb4ub6kyw/1wBIv98azBop9AiQGd-OaQ/edit?utm_content=DAFb4ub6kyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-3.4. [PhaseAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/PhaseAnalysis.png)
+7.4. [PhaseAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/PhaseAnalysis.png)
 
 Canva [template](https://www.canva.com/design/DAFb9gFAAJc/iE02yvCVYg4Fh9HUBclqVg/edit?utm_content=DAFb9gFAAJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-3.5. [GapAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/GAPAnalysis.png)
+7.5. [GapAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/GAPAnalysis.png)
 
 Canva [template](https://www.canva.com/design/DAFcDyqW_FM/nNhb98iBLDiqURvHgFNB6g/edit?utm_content=DAFcDyqW_FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-3.6. [SegmentStrategygraph.png](https://github.com/riyahds/ProjectData/blob/main/SegmentStrategy.png)
+7.6. [SegmentStrategygraph.png](https://github.com/riyahds/ProjectData/blob/main/SegmentStrategy.png)
 
 Canva [template](https://www.canva.com/design/DAFcIrxWfqs/H9TS5qdWO-5B2jHhv6DRFg/edit?utm_content=DAFcIrxWfqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-3.7. [CustomerDynamo.png](https://github.com/riyahds/ProjectData/blob/main/CustomerDynamo.png)
+7.7. [CustomerDynamo.png](https://github.com/riyahds/ProjectData/blob/main/CustomerDynamo.png)
 
 Canva [template](https://www.canva.com/design/DAFcKk5XGfI/QXujQZF-Zx4u9PfDYAF5Cw/edit?utm_content=DAFcKk5XGfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
