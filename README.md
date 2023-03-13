@@ -24,7 +24,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    3.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
-      Random data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40) (<<sample)
+      Random data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40) (<<sample schema)
       
 4. Google Forms
 
