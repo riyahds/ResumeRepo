@@ -1,6 +1,6 @@
 #ProjectData
 
-Public repository for files related to riyahdsamuels.online website - in development
+Public repository for files related to riyahdsamuels.online resume portfolio website
 
 The contents of this repository "ProjectData" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner riyahds. Data entities generated in Microsoft Excel and Microsoft Power Query are randomly generated from online resources with references where applicable, and is solely used for demonstrative purposes
 
@@ -8,7 +8,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 #Content
 
-1. riyahdsamuels.online resume and portfolio website
+1. riyahdsamuels.online resume portfolio website
 
 2. FIGMA [Job card workflow](https://www.figma.com/file/smIwfmc00khMUpN2TGO1UH/Job-card-workflow?node-id=0%3A1&t=tourdyD52yO5bTxR-1)
 
