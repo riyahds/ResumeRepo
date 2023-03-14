@@ -1,41 +1,4 @@
-### Hi there
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-Greetings from:
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [33.91],
-              [33.86],
-              [28.86],
-              [28.91],
-              [33.91]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
-#ProjectData
+###ProjectData
 
 Public repository for files related to riyahdsamuels.online website - in development
 
