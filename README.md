@@ -38,33 +38,32 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 #Images
 
-6. OpenAI image generator: [“Excel datasheet at a desk computer in hyperspace”](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
-7. OpenAI image generator: 
+6. OpenAI DALL-E image generator: [“Excel datasheet at a desk computer in hyperspace”](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
 
-8. Canva
+7. Canva
                 
-   8.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template link](https://www.canva.com/design/DAFa34jYWO4/eVX3tjZ0bS5RuVOJAf-jVA/edit?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   7.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template link](https://www.canva.com/design/DAFa34jYWO4/eVX3tjZ0bS5RuVOJAf-jVA/edit?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   8.2. [IssueSeverityMatrix.png](https://github.com/riyahds/ProjectData/blob/main/IssueSeverityMatrix.png)
+   7.2. [IssueSeverityMatrix.png](https://github.com/riyahds/ProjectData/blob/main/IssueSeverityMatrix.png)
 
    Canva [template](https://www.canva.com/design/DAFbsagwtsQ/63rLDJ7gay5xNbdSCAldwg/edit?utm_content=DAFbsagwtsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   8.3. [EngagementLifecycleJourneyMap.png](https://github.com/riyahds/ProjectData/blob/main/EngagementLifecycleJourneyMap.png)
+   7.3. [EngagementLifecycleJourneyMap.png](https://github.com/riyahds/ProjectData/blob/main/EngagementLifecycleJourneyMap.png)
 
    Canva [template](https://www.canva.com/design/DAFb4ub6kyw/1wBIv98azBop9AiQGd-OaQ/edit?utm_content=DAFb4ub6kyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   8.4. [PhaseAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/PhaseAnalysis.png)
+   7.4. [PhaseAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/PhaseAnalysis.png)
 
    Canva [template](https://www.canva.com/design/DAFb9gFAAJc/iE02yvCVYg4Fh9HUBclqVg/edit?utm_content=DAFb9gFAAJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   8.5. [GapAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/GAPAnalysis.png)
+   7.5. [GapAnalysis.png](https://github.com/riyahds/ProjectData/blob/main/GAPAnalysis.png)
 
    Canva [template](https://www.canva.com/design/DAFcDyqW_FM/nNhb98iBLDiqURvHgFNB6g/edit?utm_content=DAFcDyqW_FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   8.6. [SegmentStrategygraph.png](https://github.com/riyahds/ProjectData/blob/main/SegmentStrategy.png)
+   7.6. [SegmentStrategygraph.png](https://github.com/riyahds/ProjectData/blob/main/SegmentStrategy.png)
 
    Canva [template](https://www.canva.com/design/DAFcIrxWfqs/H9TS5qdWO-5B2jHhv6DRFg/edit?utm_content=DAFcIrxWfqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   8.7. [CustomerDynamo.png](https://github.com/riyahds/ProjectData/blob/main/CustomerDynamo.png)
+   7.7. [CustomerDynamo.png](https://github.com/riyahds/ProjectData/blob/main/CustomerDynamo.png)
 
    Canva [template](https://www.canva.com/design/DAFcKk5XGfI/QXujQZF-Zx4u9PfDYAF5Cw/edit?utm_content=DAFcKk5XGfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
