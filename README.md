@@ -38,13 +38,15 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 #Images
 
-5. OpenAI DALL-E image generator: [“Excel datasheet at a desk computer in hyperspace”](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
+5. OpenAI DALL-E image generator: [DataAnalysis](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
 
 6. Canva
                 
    6.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/eVX3tjZ0bS5RuVOJAf-jVA/edit?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-   6.2 [CustomerSuccessGeoFlow], [template](https://www.canva.com/design/DAFdQeFVjSo/gOaDa470Bza56GCwbim63A/view?utm_content=DAFdQeFVjSo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   6.2 [CustomerSuccessGeoFlow.png], [template](https://www.canva.com/design/DAFdQeFVjSo/gOaDa470Bza56GCwbim63A/view?utm_content=DAFdQeFVjSo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
+   6.3 [SegmentStrategyGraph.png], [template](https://www.canva.com/design/DAFcIrxWfqs/w_O7Ue_VTSCIYlp8C_U18A/view?utm_content=DAFcIrxWfqs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
    6.2. [IssueSeverityMatrix.png](https://github.com/riyahds/ProjectData/blob/main/IssueSeverityMatrix.png)
 
