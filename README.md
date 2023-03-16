@@ -8,7 +8,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 #Content
 
-##riyahdsamuels.online resume portfolio website
+**riyahdsamuels.online resume portfolio website**
 
 1. FIGMA [Job card workflow](https://www.figma.com/file/smIwfmc00khMUpN2TGO1UH/Job-card-workflow?node-id=0%3A1&t=tourdyD52yO5bTxR-1)
 
@@ -79,5 +79,5 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 9. Blog
 
-9.1 "What is Thought Leadership"
-   9.1.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   9.1 "What is Thought Leadership"
+    9.1.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
