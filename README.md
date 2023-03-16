@@ -86,4 +86,4 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    9.1 "What is Thought Leadership"
    
-    9.1.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+      9.1.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
