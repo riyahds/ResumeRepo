@@ -77,7 +77,9 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 8. Personal media
 
    8.1 HomePage.jpg
+   
    8.2 UnderstandingCustomerValue.jpg
+   
    8.3 AboutMe.jpg
 
 9. Blog
