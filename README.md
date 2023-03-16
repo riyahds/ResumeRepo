@@ -1,14 +1,25 @@
-#ProjectData
+#ProjectData 
 
-Public repository for files related to riyahdsamuels.online resume
+
+
+Public repository for files related to **riyahdsamuels.online resume website**
 
 The contents of this repository "ResumeWebsite" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner riyahds. Data entities in Microsoft Excel and Microsoft Power Query are generated from online resources with references provided where applicable, and is solely used for demonstrative purposes.
 
 I have ensured to obtained all necessary permissions, open source disclosures and fair usage guidelines when using any materials from online sources in this work where applicable
 
+The website uses cookies to analyze website traffic and optimize the website experience. By clicking "Accept", you are consenting to the use of cookies and your data will be aggregated with all other user data.
+
+For more information on cookies enabled on the website, see GoDaddy Privacy Policy: https://www.godaddy.com/en-za/legal/agreements/privacy-policy
+
+See Google Analytics Privacy Policy:
+https://policies.google.com/technologies/partner-sites
+
 #Content
 
-**riyahdsamuels.online resume portfolio website**
+Cookies are enabled on the website for analytics , please refer:
+
+Privacy Policy: https://www.godaddy.com/en-za/legal/agreements/privacy-policy
 
 1. FIGMA [Job card workflow](https://www.figma.com/file/smIwfmc00khMUpN2TGO1UH/Job-card-workflow?node-id=0%3A1&t=tourdyD52yO5bTxR-1)
 
