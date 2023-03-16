@@ -17,10 +17,6 @@ https://policies.google.com/technologies/partner-sites
 
 #Content
 
-Cookies are enabled on the website for analytics , please refer:
-
-Privacy Policy: https://www.godaddy.com/en-za/legal/agreements/privacy-policy
-
 1. FIGMA [Job card workflow](https://www.figma.com/file/smIwfmc00khMUpN2TGO1UH/Job-card-workflow?node-id=0%3A1&t=tourdyD52yO5bTxR-1)
 
 2. Microsoft Excel sample datasheets
