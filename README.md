@@ -51,35 +51,37 @@ https://policies.google.com/technologies/partner-sites
 
 7. Canva
 
-   7.1 [CustomerSuccessFramework.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessFramework.png), [template](https://www.canva.com/design/DAFc054qpj4/BzP0zoKFp_5ekdjqZDFn3g/view?utm_content=DAFc054qpj4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.1 [CustomerSuccessDynamoGeoFlow.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessDynamoGeoFlow.png), [template](https://www.canva.com/design/DAFcm7-Tq2o/hrNmGVFE1ejdHv9F3RMxow/view?utm_content=DAFcm7-Tq2o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.2 [CustomerServiceGeoFlow.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerServiceGeoFlow.png), [teamplate](https://www.canva.com/design/DAFcZ5sHO6A/JEZBxqc5XcUtUX37UuuyJw/view?utm_content=DAFcZ5sHO6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.2 [CustomerSuccessFramework.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessFramework.png), [template](https://www.canva.com/design/DAFc054qpj4/BzP0zoKFp_5ekdjqZDFn3g/view?utm_content=DAFc054qpj4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.3 [SeverityMatrix.png](https://github.com/riyahds/ResumeWebsite/blob/main/SeverityMatrix.png), [template](https://www.canva.com/design/DAFbsagwtsQ/ZWECpcpP2vwlxVxYp-7tyA/view?utm_content=DAFbsagwtsQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.3 [CustomerServiceGeoFlow.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerServiceGeoFlow.png), [teamplate](https://www.canva.com/design/DAFcZ5sHO6A/JEZBxqc5XcUtUX37UuuyJw/view?utm_content=DAFcZ5sHO6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.4 [CustomerSuccessGeoFlow.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessGeoFlow.png), [template](https://www.canva.com/design/DAFdQeFVjSo/gOaDa470Bza56GCwbim63A/view?utm_content=DAFdQeFVjSo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.4 [SeverityMatrix.png](https://github.com/riyahds/ResumeWebsite/blob/main/SeverityMatrix.png), [template](https://www.canva.com/design/DAFbsagwtsQ/ZWECpcpP2vwlxVxYp-7tyA/view?utm_content=DAFbsagwtsQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.5 [ProductOnboadingJourneyMap.png](https://github.com/riyahds/ResumeWebsite/blob/main/ProductOnboardingJourneyMap.png), [template](https://www.canva.com/design/DAFb4ub6kyw/VqrjFnUi86s3w-ol-kFZPw/view?utm_content=DAFb4ub6kyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.5 [CustomerSuccessGeoFlow.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessGeoFlow.png), [template](https://www.canva.com/design/DAFdQeFVjSo/gOaDa470Bza56GCwbim63A/view?utm_content=DAFdQeFVjSo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.6 [SegmentStrategyGraph.png](https://github.com/riyahds/ResumeWebsite/blob/main/SegmentStrategyGraph.png), [template](https://www.canva.com/design/DAFcIrxWfqs/w_O7Ue_VTSCIYlp8C_U18A/view?utm_content=DAFcIrxWfqs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.6 [ProductOnboadingJourneyMap.png](https://github.com/riyahds/ResumeWebsite/blob/main/ProductOnboardingJourneyMap.png), [template](https://www.canva.com/design/DAFb4ub6kyw/VqrjFnUi86s3w-ol-kFZPw/view?utm_content=DAFb4ub6kyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.7 [GAPAnalysis.png](https://github.com/riyahds/ResumeWebsite/blob/main/GAPAnalysis.png), [template](https://www.canva.com/design/DAFcDyqW_FM/E4t9ijc45dZyBGfCPWfwaw/view?utm_content=DAFcDyqW_FM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.7 [SegmentStrategyGraph.png](https://github.com/riyahds/ResumeWebsite/blob/main/SegmentStrategyGraph.png), [template](https://www.canva.com/design/DAFcIrxWfqs/w_O7Ue_VTSCIYlp8C_U18A/view?utm_content=DAFcIrxWfqs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.8 [GAPAnalysisActionItems.png](https://github.com/riyahds/ResumeWebsite/blob/main/GAPAnalysisActionItems.png), [template](https://www.canva.com/design/DAFcD5Enm1Y/gTkPFJIt2s7dSG-UGpy6OA/view?utm_content=DAFcD5Enm1Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.8 [GAPAnalysis.png](https://github.com/riyahds/ResumeWebsite/blob/main/GAPAnalysis.png), [template](https://www.canva.com/design/DAFcDyqW_FM/E4t9ijc45dZyBGfCPWfwaw/view?utm_content=DAFcDyqW_FM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.9 [CommunicationGuideline.png](https://github.com/riyahds/ResumeWebsite/blob/main/CommunicationGuideline.png), [template](https://www.canva.com/design/DAFb4OiVJUk/AdWAsilqocf1Avf4Ec7tNg/view?utm_content=DAFb4OiVJUk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.9 [GAPAnalysisActionItems.png](https://github.com/riyahds/ResumeWebsite/blob/main/GAPAnalysisActionItems.png), [template](https://www.canva.com/design/DAFcD5Enm1Y/gTkPFJIt2s7dSG-UGpy6OA/view?utm_content=DAFcD5Enm1Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.10 [CustomerSuccessFunnel.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessFunnel.png), [template](https://www.canva.com/design/DAFcGRBTHtQ/yH9ioUWAf0nbmAOkw_mHzg/view?utm_content=DAFcGRBTHtQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.10 [CommunicationGuideline.png](https://github.com/riyahds/ResumeWebsite/blob/main/CommunicationGuideline.png), [template](https://www.canva.com/design/DAFb4OiVJUk/AdWAsilqocf1Avf4Ec7tNg/view?utm_content=DAFb4OiVJUk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.11 [CustomerSuccessPlaybook.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessPlaybook.png), [template](https://www.canva.com/design/DAFdQvEERII/8WIEjHNTVUP7Eojt-YRusA/view?utm_content=DAFdQvEERII&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.11 [CustomerSuccessFunnel.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessFunnel.png), [template](https://www.canva.com/design/DAFcGRBTHtQ/yH9ioUWAf0nbmAOkw_mHzg/view?utm_content=DAFcGRBTHtQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.12 [CustomerSuccessTouchpointJourney.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessTouchpointJourney.png), [template](https://www.canva.com/design/DAFc0UDT3Xg/f1srXU4kcxernQmLvrMZcQ/view?utm_content=DAFc0UDT3Xg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.12 [CustomerSuccessPlaybook.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessPlaybook.png), [template](https://www.canva.com/design/DAFdQvEERII/8WIEjHNTVUP7Eojt-YRusA/view?utm_content=DAFdQvEERII&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.13 [CustomerSuccessMaturityModel.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessMaturityModel.png), [template](https://www.canva.com/design/DAFcwVL-yuk/ggSbvkNHZEiBX8naU6CWxA/view?utm_content=DAFcwVL-yuk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.13 [CustomerSuccessTouchpointJourney.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessTouchpointJourney.png), [template](https://www.canva.com/design/DAFc0UDT3Xg/f1srXU4kcxernQmLvrMZcQ/view?utm_content=DAFc0UDT3Xg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.14 [ExecutiveResponsibilities.png](https://github.com/riyahds/ResumeWebsite/blob/main/ExecutiveResponsibilities.png), [template](https://www.canva.com/design/DAFb9gFAAJc/ajvrEmVnBw-Ue9iOzicC0g/view?utm_content=DAFb9gFAAJc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.14 [CustomerSuccessMaturityModel.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessMaturityModel.png), [template](https://www.canva.com/design/DAFcwVL-yuk/ggSbvkNHZEiBX8naU6CWxA/view?utm_content=DAFcwVL-yuk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-   7.15 CareerAchievements [SLA.png](https://github.com/riyahds/ResumeWebsite/blob/main/ExigentSLA.png_), [Sales.png](https://github.com/riyahds/ResumeWebsite/blob/main/Sales.png), [StaffRetention.png](https://github.com/riyahds/ResumeWebsite/blob/main/ExigentStaffPromotion.png), [NewHires.png](https://github.com/riyahds/ResumeWebsite/blob/main/NewHIres.png), [PerformanceVolKPIs.png](https://github.com/riyahds/ResumeWebsite/blob/main/PerformanceVolKPIs.png), [PerformanceKPIs.png](https://github.com/riyahds/ResumeWebsite/blob/main/PerformanceKPIs.png) -  [Template](https://www.canva.com/design/DAFcdWDYits/xTxx58LlykykK5K1cTvSjw/view?utm_content=DAFcdWDYits&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   7.15 [ExecutiveResponsibilities.png](https://github.com/riyahds/ResumeWebsite/blob/main/ExecutiveResponsibilities.png), [template](https://www.canva.com/design/DAFb9gFAAJc/ajvrEmVnBw-Ue9iOzicC0g/view?utm_content=DAFb9gFAAJc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
+   7.16 CareerAchievements [SLA.png](https://github.com/riyahds/ResumeWebsite/blob/main/ExigentSLA.png_), [Sales.png](https://github.com/riyahds/ResumeWebsite/blob/main/Sales.png), [StaffRetention.png](https://github.com/riyahds/ResumeWebsite/blob/main/ExigentStaffPromotion.png), [NewHires.png](https://github.com/riyahds/ResumeWebsite/blob/main/NewHIres.png), [PerformanceVolKPIs.png](https://github.com/riyahds/ResumeWebsite/blob/main/PerformanceVolKPIs.png), [PerformanceKPIs.png](https://github.com/riyahds/ResumeWebsite/blob/main/PerformanceKPIs.png) -  [Template](https://www.canva.com/design/DAFcdWDYits/xTxx58LlykykK5K1cTvSjw/view?utm_content=DAFcdWDYits&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 8. Personal media
 
