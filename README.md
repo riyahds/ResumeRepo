@@ -8,11 +8,11 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 #Content
 
-###riyahdsamuels.online resume portfolio website
+##riyahdsamuels.online resume portfolio website
 
 1. FIGMA [Job card workflow](https://www.figma.com/file/smIwfmc00khMUpN2TGO1UH/Job-card-workflow?node-id=0%3A1&t=tourdyD52yO5bTxR-1)
 
-2. Microsoft Excel data
+2. Microsoft Excel sample datasheets
 
    2.1 [KaizenProcessImprovementData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/KaizenProcessImprovementData.xlsx)
 
@@ -25,22 +25,24 @@ I have ensured to obtained all necessary permissions, open source disclosures an
    2.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
      Excel data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40) (<<sample schema)
+     
+3. Microsoft Power Query
+
+   3.1 [SampleChurnAnalysisPowerQuery.pbit](https://github.com/riyahds/ResumeWebsite/blob/main/SampleChurnAnalysisPowerQuery.pbit)
+
+4. Microsoft Azure Certifications - Credly [Badge](https://www.credly.com/users/riyahd-samuels/badges)
       
-3. Google Forms
+5. Google Forms
 
-   3.1 [X App Feedback Survey](https://docs.google.com/forms/d/1jv0d2RUpGw5Ud9nYi4R9b5tiFXlFhLfE4Z1ZD-mHF_4/edit)
+   5.1 [X App Feedback Survey](https://docs.google.com/forms/d/1jv0d2RUpGw5Ud9nYi4R9b5tiFXlFhLfE4Z1ZD-mHF_4/edit)
 
-   3.2 [X App Churn Survey](https://docs.google.com/forms/d/1T87T9gkUrXrCg_5OyO2EbhpYNSmTZX2lupQqBsbjQWI/edit)
-
-4. Microsoft Power Query
-
-   4.1 [SampleChurnAnalysisPowerQuery.pbit](https://github.com/riyahds/ResumeWebsite/blob/main/SampleChurnAnalysisPowerQuery.pbit)
+   5.2 [X App Churn Survey](https://docs.google.com/forms/d/1T87T9gkUrXrCg_5OyO2EbhpYNSmTZX2lupQqBsbjQWI/edit)
 
 #Images
 
-5. OpenAI DALL-E image generator: [DataAnalysis](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
+6. OpenAI DALL-E image generator: [DataAnalysis](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
 
-6. Canva
+7. Canva
 
    6.1 [CustomerSuccessFramework.png](https://github.com/riyahds/ResumeWebsite/blob/main/CustomerSuccessFramework.png), [template](https://www.canva.com/design/DAFc054qpj4/BzP0zoKFp_5ekdjqZDFn3g/view?utm_content=DAFc054qpj4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
@@ -72,10 +74,10 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    6.15 CareerAchievements [SLA](https://github.com/riyahds/ResumeWebsite/blob/main/ExigentSLA.png_), [Sales](https://github.com/riyahds/ResumeWebsite/blob/main/Sales.png), [StaffRetention](https://github.com/riyahds/ResumeWebsite/blob/main/ExigentStaffPromotion.png), [NewHires](https://github.com/riyahds/ResumeWebsite/blob/main/NewHIres.png), [PerformanceVolKPIs](https://github.com/riyahds/ResumeWebsite/blob/main/PerformanceVolKPIs.png), [PerformanceKPIs](https://github.com/riyahds/ResumeWebsite/blob/main/PerformanceKPIs.png) -  [Template](https://www.canva.com/design/DAFcdWDYits/xTxx58LlykykK5K1cTvSjw/view?utm_content=DAFcdWDYits&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-6.16 Microsoft Azure Certifications - Credly [Badges](https://www.credly.com/users/riyahd-samuels/badges)
-            
-   6.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
-#References:
-   
-   Amazon Shared Responsibility Model
-   
+8. Personal media
+
+
+9. Blog
+
+9.1 "What is Thought Leadership"
+   9.1.1 [Experience/OutcomeMatrix.png](https://github.com/riyahds/ProjectData/blob/main/ExperienceOutcomeMatrix.png), [template](https://www.canva.com/design/DAFa34jYWO4/dwYpsZq23_5E3RvtVbrvVg/view?utm_content=DAFa34jYWO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
