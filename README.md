@@ -8,7 +8,7 @@ The contents of this repository "ResumeWebsite" and all files uploaded, does not
 
 I have ensured to obtained all necessary permissions, open source disclosures and fair usage guidelines when using any materials from online sources in this work where applicable
 
-The website uses cookies to analyze website traffic and optimize the website experience. By clicking "Accept", you are consenting to the use of cookies and your data will be aggregated with all other user data.
+The website uses cookies to analyze website traffic and optimize the website experience. By clicking "Accept", you are consenting to the use of cookies and your data will be aggregated with all other user data
 
 For more information on cookies enabled on the website, see GoDaddy Privacy Policy: https://www.godaddy.com/en-za/legal/agreements/privacy-policy
 
