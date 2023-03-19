@@ -54,7 +54,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
    6.2 UnderstandingCustomerValue.jpg
    6.3 AboutMe.jpg
    6.4 [Sweatcoinbrandassets.jpg](https://promote.sweatco.in/brand-assets)
-   8.5 WalkforChange.jpg
+   6.5 WalkforChange.jpg
 
 7. OpenAI DALL-E image generator: [DataAnalysis](https://labs.openai.com/s/bsYXD9UiBhpuBJO4uJa5egGD)
 
