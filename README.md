@@ -32,6 +32,8 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
    2.5 [SampleYAppSubscriptionRangeData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
 
+   2.6 [SampleRevenueSubcsriptionData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleRevenueSubcsriptionData.xlsx)
+
      Excel data entries generated online at [mockaroo.com](https://www.mockaroo.com/0596cf40) (<<sample schema)
      
 3. Microsoft Power Query
