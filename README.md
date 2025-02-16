@@ -2,7 +2,7 @@
 
 
 
-Public repository for files related to **riyahdsamuels.online resume website**
+Public repository for files related to **riyahdsresume.godaddysites.com resume website**
 
 The website uses cookies to analyze website traffic and optimize the website experience. By clicking "Accept", you are consenting to the use of cookies and your data will be aggregated with all other user data
 
