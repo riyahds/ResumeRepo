@@ -2,15 +2,7 @@
 
 
 
-Public repository for files related to **riyahdsresume.godaddysites.com resume website**
-
-The website uses cookies to analyze website traffic and optimize the website experience. By clicking "Accept", you are consenting to the use of cookies and your data will be aggregated with all other user data
-
-For more information on cookies enabled on the website, see:
-
-   GoDaddy Privacy Policy: https://www.godaddy.com/en-za/legal/agreements/privacy-policy
-
-   Google Analytics Privacy Policy: https://policies.google.com/technologies/partner-sites
+Public repository for files related to riyahds resume
 
 The contents of this repository "ResumeWebsite" and all files uploaded, does not infringe on the rights of any third party, and is created as original work of the owner riyahds. Data entities in Microsoft Excel and Microsoft Power Query are generated from online resources with references provided where applicable, and is solely used for demonstrative purposes.
 
