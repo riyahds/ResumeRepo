@@ -1,6 +1,6 @@
-#Public repository for files related to Resume-Website
+#Public repository for files related to ResumeWebsite
 
-The contents of this repository "Resume-Website" and all files uploaded, does not infringe on the rights of any third party, and is created as the original work of the owner, intended to serve as a reference for design in customer success frameworks. Data entities used in Microsoft Excel, Google Sheets, Microsoft Power BI and Canva, are generated from online resources, created for demonstrative purposes.
+The contents of this repository "ResumeWebsite" and all files uploaded, does not infringe on the rights of any third party, and is created as the original work of the owner, intended to serve as a reference for design in customer success frameworks. Data entities used in Microsoft Excel, Google Sheets, Microsoft Power BI and Canva, are generated from online resources, created for demonstrative purposes.
 
 I have ensured to obtained all necessary permissions, open source disclosures and fair usage guidelines when using any materials from online sources in this work where applicable.
 
