@@ -37,7 +37,7 @@ I have ensured to obtained all necessary permissions, open source disclosures an
 
 #Canva
 
-   5.1 CustomerServiceFlow [teamplate](https://www.canva.com/design/DAFcZ5sHO6A/JEZBxqc5XcUtUX37UuuyJw/view?utm_content=DAFcZ5sHO6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   5.1 CustomerServiceFlow [template](https://www.canva.com/design/DAFcZ5sHO6A/JEZBxqc5XcUtUX37UuuyJw/view?utm_content=DAFcZ5sHO6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
    5.2 CustomerServiceSeverityMatrix [template](https://www.canva.com/design/DAFbsagwtsQ/ZWECpcpP2vwlxVxYp-7tyA/view?utm_content=DAFbsagwtsQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
