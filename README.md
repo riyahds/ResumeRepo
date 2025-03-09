@@ -10,25 +10,25 @@ I have ensured to obtained all necessary permissions, open source disclosures an
    Business Process Outsourcing - Document Production
    Design system displaying framework to bill chargeable processing time, with steps for receipt, review and return, as service units to client
    
-2. Microsoft Excel sample data sets - Cloud platform MSP, subscription based services - Generated using [mockaroo.com](https://www.mockaroo.com/0596cf40)
+2. Microsoft Excel sample data sets - Cloud platform MSP, subscription based services - generated using [mockaroo](https://www.mockaroo.com/0596cf40)
 
-   2.1   Cost optimization [KaizenProcessImprovementFinData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/KaizenProcessImprovementData.xlsx)
+   2.1   Cost optimization [KaizenProcessImprovementFinData.xlsx](https://github.com/riyahds/Resume-Website/blob/main/KaizenProcessImprovementFinData.xlsx)
          Decrease in avg expenditure incurred as a total of all accounts exceeding free usage limitations month-to-month
 
-   2.2   Subscription data - MRR [SampleXAppSubscriptionPivotData.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleXAppSubscriptionData.xlsx)
+   2.2   Subscription data - MRR [SampleXAppSubscriptionPivotData.xlsx](https://github.com/riyahds/Resume-Website/blob/main/SampleXAppSubscriptionPivotData.xlsx)
          Monthly subscription data to calculate MRR, Customer retention rate, churn rate, lost revenue
 
-   2.3   Subscription data - ARR [SampleSubcsriptionData2.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/SampleRevenueSubcsriptionData.xlsx)
+   2.3   Subscription data - ARR [SampleSubscriptionData2.xlsx](https://github.com/riyahds/Resume-Website/blob/main/SampleSubcsriptionData2.xlsx)
          Subscription data calculating revenue growth rate, ARR, YoY, churn rate
 
-   2.4   Sample product feedback [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppChurnFeedbackSurvey.xlsx)
+   2.4   Sample product feedback [XAppChurnFeedbackSurvey.xlsx](https://github.com/riyahds/Resume-Website/blob/main/XAppChurnFeedbackSurvey.xlsx)
          CSAT surveys - responses on staff ratings, up-sell and reasons for churn
 
-   2.5   Sample software utility report [XAppSoftwareFeedback.xlsx](https://github.com/riyahds/ResumeWebsite/blob/main/XAppProductAnalysisFeedback.xlsx)
+   2.5   Sample software utility report [XAppSoftwareFeedback.xlsx](https://github.com/riyahds/Resume-Website/blob/main/XAppSoftwareFeedback.xlsx)
          Customer feedback on core app utility, based on frequency of usage
 
-3. Sample feedback report - Power BI [YAppSubChurnReport](https://github.com/riyahds/ResumeWebsite/blob/main/SampleYAppSubscriptionRangeData.xlsx)
-   Feedback transformed in Microsoft Power BI for churn analysis
+3. Sample feedback report - Microsoft Power BI [YAppSubChurnReport.xlsx](https://github.com/riyahds/Resume-Website/blob/main/YAppSubChurnReport.xlsx) [YAppSubChurnReport.pbix](https://github.com/riyahds/Resume-Website/blob/main/YAppSubChurnReport.pbix)
+   Churn feedback analysis
 
 4. Sample Google Forms to collect feedback
 
